@@ -1,0 +1,10 @@
+{
+  "load_order": 1,
+  "biome_colors": {
+    "twd:west": "5e7b32",
+    "twd:deep-south": "4e6231",
+    "twd:north": "5d9338",
+    "twd:south": "3e9400",
+    "twd:central-states": "345d0e"
+  }
+}
